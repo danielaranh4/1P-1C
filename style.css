@@ -22,3 +22,6 @@ a{
 nav{
     text-align: center;
 }
+iframe:hover{
+    opacity: 0.5;
+}
